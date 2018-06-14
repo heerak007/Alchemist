@@ -1,5 +1,5 @@
 
-##Trends Observed from the Clinical Data Analysis of various drugs done on mice.
+## Trends Observed from the Clinical Data Analysis of various drugs done on mice.
 
 * Amongst the four Drugs compared, Capomulin is the only one that reduced the tumor volume, hence having a possitive effect while the other had similar to no effects. Ketapril could even be seen to increase the tumor growth when compared to placebo.
 * When compared with the Placebo, the three other drugs had possitive effects for metalistic spread. Meaning they all reduced spread compared to Placebo. The least spread was for Capomulin
