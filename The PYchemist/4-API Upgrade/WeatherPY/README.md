@@ -1,4 +1,12 @@
 
+# WeatherAPI
+
+### Analysis
+* Looking at the Temperature over various cities graph, we can see that temperatures rise as the latitude of the city approachs about 18 degrees. The first though is that peak temperatures should occur at the equater, but data shows otherwise. This possibly is due to the fact that the earth is tilted.
+* Though humidity for most cities is above 60%, there may be a trend with its relationship with latitude. A "W" shape takes form with two troughs at about -20 and +25 degrees latitude. Possibly showin that at this time of year is the driest seasons for cities near those latitudes.  
+* Cloudiness seems to have no observable trends nor a relationship with latitude. 
+* Wind Speed tends to be around 15mph or less for the majority of the cities. No correlation with latitude.
+
 
 ```python
 # Importing Dependencies
@@ -1063,7 +1071,7 @@ plt.savefig("Outputs/Temperature.jpeg")
 ```
 
 
-![png](output_4_0.png)
+![png](output_5_0.png)
 
 
 
@@ -1078,7 +1086,7 @@ plt.savefig("Outputs/Humidity.jpeg")
 ```
 
 
-![png](output_5_0.png)
+![png](output_6_0.png)
 
 
 
@@ -1093,7 +1101,7 @@ plt.savefig("Outputs/Cloudiness.jpeg")
 ```
 
 
-![png](output_6_0.png)
+![png](output_7_0.png)
 
 
 
@@ -1108,5 +1116,5 @@ plt.savefig("Outputs/Windspeed.jpeg")
 ```
 
 
-![png](output_7_0.png)
+![png](output_8_0.png)
 
